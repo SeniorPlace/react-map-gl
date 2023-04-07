@@ -2,7 +2,7 @@
   "name": "@seniorplace/react-map-gl",
   "private": true,
   "description": "React components for Mapbox GL JS-compatible libraries",
-  "version": "7.0.21",
+  "version": "7.0.22",
   "keywords": [
     "mapbox",
     "mapbox-gl",
